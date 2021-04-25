@@ -1,4 +1,4 @@
--- CONFIG: YOU CAN CHANGE "NumberJump" FROM 10 TO 20 (Recommended: 15)
+-- CONFIG: YOU CAN CHANGE "NumberJump" FROM 10 TO 30 (Recommended: 15)
 
 local NumberJump = 15
 
