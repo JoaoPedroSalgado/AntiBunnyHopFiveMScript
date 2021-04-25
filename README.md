@@ -13,6 +13,7 @@ Feel free to edit it :)
 If you have any questions:
 
 My Discord Service Server discord.gg/xMxVKdr
+
 My Discord: 'JoãoPedroSalgado#1337
 
 Preview: https://www.youtube.com/watch?v=ZlBtM5A9Hi8
