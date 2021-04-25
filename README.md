@@ -9,7 +9,9 @@ Prevent player from jumping to many times.
 4. "start AntiBunnyHopFiveMScript" on server.cfg
 
 Feel free to edit it :)
-If you have any questions ask them on my Discord Service Server discord.gg/xMxVKdr
+
+If you have any questions:
+My Discord Service Server discord.gg/xMxVKdr
 My Discord: 'JoãoPedroSalgado#1337
 
 Preview: https://www.youtube.com/watch?v=ZlBtM5A9Hi8
